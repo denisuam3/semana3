@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DENIS DOC\\Desktop\\Metodologia\\repositorio semana 3\\EvalAge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A374BF0-0188-484E-BEF9-148AC90EB3FE}|EvalAge.csproj|d:\\denis doc\\desktop\\metodologia\\repositorio semana 3\\evalage\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A374BF0-0188-484E-BEF9-148AC90EB3FE}|EvalAge.csproj|solutionrelative:models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A374BF0-0188-484E-BEF9-148AC90EB3FE}|EvalAge.csproj|d:\\denis doc\\desktop\\metodologia\\repositorio semana 3\\evalage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A374BF0-0188-484E-BEF9-148AC90EB3FE}|EvalAge.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A374BF0-0188-484E-BEF9-148AC90EB3FE}|EvalAge.csproj|d:\\denis doc\\desktop\\metodologia\\repositorio semana 3\\evalage\\evalage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A374BF0-0188-484E-BEF9-148AC90EB3FE}|EvalAge.csproj|solutionrelative:evalage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A374BF0-0188-484E-BEF9-148AC90EB3FE}|EvalAge.csproj|d:\\denis doc\\desktop\\metodologia\\repositorio semana 3\\evalage\\evalage.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8A374BF0-0188-484E-BEF9-148AC90EB3FE}|EvalAge.csproj|solutionrelative:evalage.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A374BF0-0188-484E-BEF9-148AC90EB3FE}|EvalAge.csproj|d:\\denis doc\\desktop\\metodologia\\repositorio semana 3\\evalage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A374BF0-0188-484E-BEF9-148AC90EB3FE}|EvalAge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 124,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DENIS DOC\\Desktop\\Metodologia\\repositorio semana 3\\EvalAge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DENIS DOC\\Desktop\\Metodologia\\repositorio semana 3\\EvalAge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:33:48.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Evaluate.cs",
+              "DocumentMoniker": "D:\\DENIS DOC\\Desktop\\Metodologia\\repositorio semana 3\\EvalAge\\models\\Evaluate.cs",
+              "RelativeDocumentMoniker": "models\\Evaluate.cs",
+              "ToolTip": "D:\\DENIS DOC\\Desktop\\Metodologia\\repositorio semana 3\\EvalAge\\models\\Evaluate.cs",
+              "RelativeToolTip": "models\\Evaluate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:32:13.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvalAge",
+              "DocumentMoniker": "D:\\DENIS DOC\\Desktop\\Metodologia\\repositorio semana 3\\EvalAge\\EvalAge.csproj",
+              "RelativeDocumentMoniker": "EvalAge.csproj",
+              "ToolTip": "D:\\DENIS DOC\\Desktop\\Metodologia\\repositorio semana 3\\EvalAge\\EvalAge.csproj",
+              "RelativeToolTip": "EvalAge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T14:12:19.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EvalAge",
+              "DocumentMoniker": "D:\\DENIS DOC\\Desktop\\Metodologia\\repositorio semana 3\\EvalAge\\EvalAge.csproj",
+              "RelativeDocumentMoniker": "EvalAge.csproj",
+              "ToolTip": "D:\\DENIS DOC\\Desktop\\Metodologia\\repositorio semana 3\\EvalAge\\EvalAge.csproj",
+              "RelativeToolTip": "EvalAge.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T14:12:51.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DENIS DOC\\Desktop\\Metodologia\\repositorio semana 3\\EvalAge\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\DENIS DOC\\Desktop\\Metodologia\\repositorio semana 3\\EvalAge\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:12:01.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

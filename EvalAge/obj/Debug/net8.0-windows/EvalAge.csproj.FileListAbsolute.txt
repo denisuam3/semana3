@@ -1,0 +1,6 @@
+D:\DENIS DOC\Desktop\Metodologia\repositorio semana 3\EvalAge\obj\Debug\net8.0-windows\EvalAge.Form1.resources
+D:\DENIS DOC\Desktop\Metodologia\repositorio semana 3\EvalAge\obj\Debug\net8.0-windows\EvalAge.csproj.GenerateResource.cache
+D:\DENIS DOC\Desktop\Metodologia\repositorio semana 3\EvalAge\obj\Debug\net8.0-windows\EvalAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\DENIS DOC\Desktop\Metodologia\repositorio semana 3\EvalAge\obj\Debug\net8.0-windows\EvalAge.AssemblyInfoInputs.cache
+D:\DENIS DOC\Desktop\Metodologia\repositorio semana 3\EvalAge\obj\Debug\net8.0-windows\EvalAge.AssemblyInfo.cs
+D:\DENIS DOC\Desktop\Metodologia\repositorio semana 3\EvalAge\obj\Debug\net8.0-windows\EvalAge.csproj.CoreCompileInputs.cache
